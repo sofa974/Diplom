@@ -5,9 +5,9 @@
     - [X] Будет база данных
 - [X] [Диаграммы](https://drive.google.com/drive/folders/1H-BPgPOajJ1F04wcI5zhoBHhHmBOtoGl?usp=sharing)
     - [X] Структура приложения
-          <br><img height="550" alt="Структура приложения" src="https://raw.githubusercontent.com/ItsArtem/Diplom/refs/heads/main/SiteStructure.png" />
+          <br><img height="550" alt="Структура приложения" src="https://raw.githubusercontent.com/sofa974/Diplom/refs/heads/main/StrukturaSaita.png" />
     - [X] Варианты использования Use Case
-          <br><img height="500" alt="Use Case" src="https://raw.githubusercontent.com/ItsArtem/Diplom/refs/heads/main/UseCase.jpg" />
+          <br><img height="500" alt="Use Case" src="https://raw.githubusercontent.com/sofa974/Diplom/refs/heads/main/UseCase.png" />
 - [ ] База данных ссылка на [таблицу](https://docs.google.com/spreadsheets/d/1nOarS4nVeEqkFlZzM5c_-et_YH4OCrgw5A65deR_n7c/edit?usp=sharing) и скрипт
     - [ ] Лист гугл таблицы на котором все данные
     - [ ] Скрин ER диаграммы на этом же листе
